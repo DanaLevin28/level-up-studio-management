@@ -1,0 +1,38 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+
+# NuGet
+packages/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temp files
+*.tmp
+*.tmp.*
+
+# Claude settings
+.claude/
+.claude/memory/
+
+# MCP config (local machine / credentials)
+.mcp.json
+
+# App config (contains DB connection credentials)
+app.config
+
+# Reference-only clones of course sample material
+cloned/
+
+# Google OAuth client secret and saved tokens
+credentials.json
+token/
