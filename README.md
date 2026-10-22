@@ -3,7 +3,10 @@
 A desktop system that replaces the manual, WhatsApp-and-Excel workflow of a boutique fitness studio with one integrated tool for class registration, waitlists, memberships, payments, and room rentals.
 
 > **Team project** · Software Analysis & Design course, Ben-Gurion University · Team of 4 · 2026
-> **My role:** I took part in every stage, from stakeholder interviews and as-is analysis through requirements, design, and implementation. *(Add 2–3 specific bullets here: what you personally owned.)*
+> **My role:** I took part in every stage of the project, end to end:
+> - **Current-state analysis:** interviewed the studio manager, trainers, and trainees, and ran a comprehensive as-is study that included on-site observation and sampling of the existing tools.
+> - **System design:** designed the new system from the findings of that analysis, turning the identified problems into requirements, use cases, and a data model.
+> - **Implementation:** built the system together with Claude (AI-assisted development), working from the design artifacts.
 
 ---
 
